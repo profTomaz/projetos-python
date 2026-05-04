@@ -7,4 +7,3 @@ elif letra == "B":
   print("Você escolheu a letra B ✅")
 else:
   print("Essa opção não está disponível ❌")
-a
